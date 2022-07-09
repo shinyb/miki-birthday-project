@@ -58,25 +58,25 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("gift-cover.jpg");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/willandunclephil.gif");
+    background-image: url("willandunclephil.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/hot2.gif");
+    background-image: url("hot2.gif");
     background-position: center;
 }
 
 #gift-img-brilliant:hover {
-    background-image: url("images/brilliant.gif");
+    background-image: url("brilliant.gif");
 }
 
 #gift-img-awesome:hover {
-    background-image: url("images/awesome2.gif");
+    background-image: url("awesome2.gif");
     background-size: 50%;
     
     
@@ -100,8 +100,8 @@ a {
     color: white;
 }
 @keyframes happy-birthday {
-  0% {background-image: url("images/cheers2.webp");}
-  60% {background-image: url("images/happybirthday.webp");}
+  0% {background-image: url("cheers2.webp");}
+  60% {background-image: url("happybirthday.webp");}
   
 }
 /* 
